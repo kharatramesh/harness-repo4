@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: kharatramesh/vadapavimages:vadapav
+        image: kharatramesh/vadapavimages:pavbhaji
         ports:
         - containerPort: 80
