@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: kharatramesh/mphasis:image3
+        image: kharatramesh/mphasis:image42
         ports:
         - containerPort: 80
